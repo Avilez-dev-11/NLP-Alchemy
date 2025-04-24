@@ -1,4 +1,5 @@
 # NLP-Alchemy
+<img src="public/assets/logo-sub.png" alt="NLP Alchemy Logo" width="100" height="100">
 RCOS submission to LLMs - You Can't Please Them All Kaggle competition.
 
 
